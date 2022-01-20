@@ -16,6 +16,7 @@
   <p>Na pasta htdocs, cole as pastas android connection e site vacine-se. Inicie os módulos Apache e MySql no Xampp.</p>
 <h3>APP</h3>
   <p>Mude a variavel "HOST" na classe connection para "[seu ip]/android%20connection/"</p>
+  <br><br><br>
 <h2>Equipe</h2>
 <div>
   <ul>
